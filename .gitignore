@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -172,3 +173,21 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+=======
+*.hex
+*.patch
+*.steps
+*.zip
+.*.swp
+*.mpy
+__pycache__
+cscope.out
+docs/build
+attic/
+wasp/boards/*/watch.py
+wasp/boards/manifest_user_apps.py
+wasp/apps/user
+wasp/appregistry.py
+.idea
+.vscode
+>>>>>>> e1784a37c7221c1c94feb4e4f5bfca33aafe22e2
